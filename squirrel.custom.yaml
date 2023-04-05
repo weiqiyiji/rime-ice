@@ -1,0 +1,5 @@
+patch:
+  style: # 明确 color schema，然后在此基础上来修改 schema 的配置
+    color_scheme: purity_of_form_custom
+    color_scheme_dark: purity_of_form_custom
+  preset_color_schemes/purity_of_form_custom/candidate_list_layout: linear

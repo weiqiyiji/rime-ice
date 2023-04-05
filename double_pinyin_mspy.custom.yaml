@@ -1,0 +1,4 @@
+patch:
+  engine/filters:
+    - simplifier@traditionalize    # 简繁切换
+    - uniquifier                   # 去重
